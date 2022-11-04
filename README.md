@@ -1,43 +1,3 @@
-- 👋 Hi, I’m @Hi-io
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Hi-io/Hi-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -46,19 +6,19 @@ You can click the Preview link to take a look at your changes.
     <img src="https://user-images.githubusercontent.com/110522512/200081013-4df77648-8d03-40a4-afca-d8d3ce1ab88b.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Hiroshi Goya</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    Data Scientist / Analyst / Engineer
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/github_username/repo_name">LinkedIn</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/github_username/repo_name/issues">Download CV</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/github_username/repo_name/issues"> Contact me</a>
+    <br />
+    <br />
   </p>
 </div>
 
@@ -89,66 +49,108 @@ You can click the Preview link to take a look at your changes.
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
+<br />
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About me
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Lifelong passionate about computing.
+About 1 year making Machine Learning projects.
+Working with complex 3D/BIM Models for +5years.
+Strong RDMS, statistics and maths knowledge.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Skills:
+
+* 🔍 SQL (MySQL, BigQuery)
+* 🐍 Python (Numpy, Pandas, ScikitLearn)
+* 📈 Spreadsheets, Excel
+* ☁️ Google Cloud Platform (Big Query, Data Studio)
+* 🖥️ Autodesk Software (AutoCAD, Revit, 3DsMax)
+* 💎 3D Rendering (SketchUp, Enscape, Lumion)
+* 📺 Video/Image/Audio editing (Adobe Photoshop, Premiere, After Effects, Camtasia, Cubase)
+
+
+<!-- EDUCATION -->
+## Education
 
 
 
-### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Certifications
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="https://user-images.githubusercontent.com/110522512/200081013-4df77648-8d03-40a4-afca-d8d3ce1ab88b.png" alt="Logo" width="80" height="80">
+  </a>
 
-### Prerequisites
+<h3 align="center">Machine Learning with Python</h3>
+  <p align="center">
+    IBM
+  <p align="left">
+    • Demonstrated a good understanding and application of machine learning (ML) including when to use different ML techniques such as regression, classification, clustering and recommender systems.
+    <br />
+    • Acquired the skills to use different machine learning libraries in Python, mainly Scikit-learn and Scipy  
+    <br />
+    <a href="https://www.credly.com/badges/bb7960d6-1e83-437e-b2c2-f831b6b15c09/public_url"><strong>Certification link »</strong></a>
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+  </p>
+</div>
 
-### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="https://user-images.githubusercontent.com/110522512/200081013-4df77648-8d03-40a4-afca-d8d3ce1ab88b.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">Analyze Data to Answer Questions</h3>
+  <p align="center">
+    Google
+  <p align="left">
+    • Apply the use of functions and syntax to create SQL queries for combining data from multiple database tables
+    <br />
+    • Demonstrate an understanding of what is involved in the conversion and formatting of data  
+    <br />
+    <a href="https://www.coursera.org/account/accomplishments/verify/HCG9BKKBLRDT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"><strong>Certification link »</strong></a>
+
+  </p>
+</div>
+
+
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="https://user-images.githubusercontent.com/110522512/200081013-4df77648-8d03-40a4-afca-d8d3ce1ab88b.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">SQL (Intermediate)</h3>
+  <p align="center">
+    HackerRank
+  <p align="left">
+    • SQL concepts, it includes complex joins, unions and sub-queries. 
+    <br />
+    <a href="https://www.coursera.org/account/accomplishments/verify/HCG9BKKBLRDT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"><strong>Certification link »</strong></a>
+
+  </p>
+</div>
+
+
+
+
+
+
 
 
 
