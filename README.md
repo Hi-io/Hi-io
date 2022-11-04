@@ -78,6 +78,40 @@ Strong RDMS, statistics and maths knowledge.
 ## Education
 
 
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="https://user-images.githubusercontent.com/110522512/200081013-4df77648-8d03-40a4-afca-d8d3ce1ab88b.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">Henry Bootcamp</h3>
+  <p align="center">
+    Argentina
+    <br />
+    Data Science / Data Analysis / Data Engineering / Machine Learning
+    <br />
+    2022
+
+  </p>
+</div>
+
+
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="https://user-images.githubusercontent.com/110522512/200081013-4df77648-8d03-40a4-afca-d8d3ce1ab88b.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">University of London - Goldsmiths</h3>
+  <p align="center">
+    London, England
+    <br />
+    Computer Science (Machine Learning and artificial Intelligence)
+    <br />
+    2026
+
+  </p>
+</div>
 
 
 
@@ -115,7 +149,7 @@ Strong RDMS, statistics and maths knowledge.
     <img src="https://user-images.githubusercontent.com/110522512/200081013-4df77648-8d03-40a4-afca-d8d3ce1ab88b.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Analyze Data to Answer Questions</h3>
+<h3 align="center">Analyze Data to Answer Questions / Process Data from Dirty to Clean</h3>
   <p align="center">
     Google
   <p align="left">
@@ -123,10 +157,45 @@ Strong RDMS, statistics and maths knowledge.
     <br />
     • Demonstrate an understanding of what is involved in the conversion and formatting of data  
     <br />
-    <a href="https://www.coursera.org/account/accomplishments/verify/HCG9BKKBLRDT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"><strong>Certification link »</strong></a>
-
+    • Explain the factors to consider when making decisions about data collection 
+    <br />
+    • Analyze the difference between biased data and unbiased data 
+    <br />
+    • Describe databases in relation to their functions and components 
+    <br />
+    • Describe best practices when organizing data  
+    <br />
+    <a href="https://www.coursera.org/account/accomplishments/verify/HCG9BKKBLRDT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"><strong>Certification 1 link»</strong></a>
+    <br />
+    <a href="https://www.coursera.org/account/accomplishments/verify/2YS5K5RR9XZU?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"><strong>Certification 2 link»</strong></a>
   </p>
 </div>
+
+
+
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="https://user-images.githubusercontent.com/110522512/200081013-4df77648-8d03-40a4-afca-d8d3ce1ab88b.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">Big Data and Machine Learning with Google Cloud Platform</h3>
+
+  <p align="center">
+    Platzi
+  <p align="left">
+    • Knowledge on the use of Machine Learning APIs and Vertex AI.
+    <br />
+    • BigData Management with CLoud Dataflow and BigQuery  
+    <br />
+    • Visualize and explore data with Cloud Datalab 
+    <br />
+    <a href="https://platzi.com/p/hiroshigoya/curso/2473-bigdata-ml-gcp/diploma/detalle/"><strong>Certification link»</strong></a>
+  </p>
+</div>
+
+
+
 
 
 <br />
@@ -141,7 +210,7 @@ Strong RDMS, statistics and maths knowledge.
   <p align="left">
     • SQL concepts, it includes complex joins, unions and sub-queries. 
     <br />
-    <a href="https://www.coursera.org/account/accomplishments/verify/HCG9BKKBLRDT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"><strong>Certification link »</strong></a>
+    <a href="https://www.hackerrank.com/certificates/b189f507cf8b"><strong>Certification link »</strong></a>
 
   </p>
 </div>
