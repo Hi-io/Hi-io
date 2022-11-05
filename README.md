@@ -239,7 +239,10 @@ Tools:
 * Numpy
 * ScikitLearn
 
+[Project Repository](https://github.com/Hi-io/Machine-Learning-Algorithm-Python)
 
+<br />
+<br />
 
 
 ### Titanic Prediction Model
@@ -254,20 +257,22 @@ Tools:
 * Numpy
 * ScikitLearn
 
-
+[Project Repository](https://github.com/Hi-io/Titanic-Prediction-Model)
+<br />
+<br />
 
 ### 3D Modeling / Rendering (BIM Project)
 
 ![1651648911752](https://user-images.githubusercontent.com/110522512/200092646-fdd6e0ee-62d2-4126-b2b5-241ea61f78bf.jpg)
 
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Residential Project Development in Revit
 
+A Three Level House in Miraflores, Lima, Peru
 
+Revit BIM + AutoCAD + SketchUp + Lumion + Photoshop
 
-
-<!-- ROADMAP -->
-## Roadmap
+[Project link](https://www.linkedin.com/feed/update/urn:li:activity:6927517643943874561/)
 
 
 
