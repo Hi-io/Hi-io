@@ -2,12 +2,11 @@
 
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://user-images.githubusercontent.com/110522512/200081013-4df77648-8d03-40a4-afca-d8d3ce1ab88b.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/110522512/200093009-f017a775-6cc5-40a2-bfd5-b0c1be4cb8cd.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Hiroshi Goya</h3>
@@ -25,35 +24,6 @@
     <br />
   </p>
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-<br />
 
 
 <!-- ABOUT THE PROJECT -->
@@ -84,7 +54,7 @@ Strong RDMS, statistics and maths knowledge.
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://user-images.githubusercontent.com/110522512/200081013-4df77648-8d03-40a4-afca-d8d3ce1ab88b.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/110522512/200093335-1189ff6a-d5a7-4b48-ace6-aa7300e6d7bf.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Henry Bootcamp</h3>
@@ -100,9 +70,11 @@ Strong RDMS, statistics and maths knowledge.
 
 
 <br />
+
+<br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://user-images.githubusercontent.com/110522512/200081013-4df77648-8d03-40a4-afca-d8d3ce1ab88b.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/110522512/200093297-7e2561a6-654f-4ecc-bf26-1b0fc810e949.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">University of London - Goldsmiths</h3>
@@ -116,8 +88,8 @@ Strong RDMS, statistics and maths knowledge.
   </p>
 </div>
 
-
-
+<br />
+<br />
 
 
 
@@ -128,7 +100,7 @@ Strong RDMS, statistics and maths knowledge.
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://user-images.githubusercontent.com/110522512/200081013-4df77648-8d03-40a4-afca-d8d3ce1ab88b.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/110522512/200093443-bf3e59da-1668-4a1b-9c64-60e155b63c96.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Machine Learning with Python</h3>
@@ -144,12 +116,12 @@ Strong RDMS, statistics and maths knowledge.
   </p>
 </div>
 
-
+<br />
 
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://user-images.githubusercontent.com/110522512/200081013-4df77648-8d03-40a4-afca-d8d3ce1ab88b.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/110522512/200093469-f33f2fb9-b27b-4153-81c8-0329afc4893c.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Analyze Data to Answer Questions / Process Data from Dirty to Clean</h3>
@@ -166,12 +138,12 @@ Strong RDMS, statistics and maths knowledge.
   </p>
 </div>
 
-
+<br />
 
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://user-images.githubusercontent.com/110522512/200081013-4df77648-8d03-40a4-afca-d8d3ce1ab88b.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/110522512/200093484-b02ba4a7-373b-4b89-a64e-598f2a486494.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Big Data and Machine Learning with Google Cloud Platform</h3>
@@ -190,13 +162,14 @@ Strong RDMS, statistics and maths knowledge.
 </div>
 
 
+<br />
 
 
 
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://user-images.githubusercontent.com/110522512/200081013-4df77648-8d03-40a4-afca-d8d3ce1ab88b.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/110522512/200093505-a4c06c9e-3bab-4872-8f48-fa3d2316be94.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">SQL (Intermediate)</h3>
