@@ -15,11 +15,11 @@
     Data Scientist / Analyst / Engineer
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/hiroshigoya/">LinkedIn</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Download CV</a>
+    <a href="https://github.com/Hi-io/Hi-io/raw/main/Hiroshi%20Goya%20CV.pdf">Download CV</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues"> Contact me</a>
+    <a href="mailto:hiroshigoya@outlook.com"> Contact me</a>
     <br />
     <br />
   </p>
