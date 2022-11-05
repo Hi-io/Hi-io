@@ -255,6 +255,7 @@ Revit BIM + AutoCAD + SketchUp + Lumion + Photoshop
 Hiroshi Goya
 
 tw [@hiio_gg](https://twitter.com/hiio_gg) 
+
 ig [@hiroshi.exe](https://www.instagram.com/hiroshi.exe/) 
 
 hiroshigoya@outlook.com
