@@ -252,4 +252,9 @@ Revit BIM + AutoCAD + SketchUp + Lumion + Photoshop
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Hiroshi Goya
+
+tw [@hiio_gg](https://twitter.com/hiio_gg) 
+ig [@hiroshi.exe](https://www.instagram.com/hiroshi.exe/) 
+
+hiroshigoya@outlook.com
