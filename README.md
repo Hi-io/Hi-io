@@ -30,10 +30,7 @@
 ## About me
 
 
-Lifelong passionate about computing.
-About 1 year making Machine Learning projects.
-Working with complex 3D/BIM Models for +5years.
-Strong RDMS, statistics and maths knowledge.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet massa non augue lobortis pulvinar nec sit amet enim. Nulla aliquam tellus purus, ullamcorper consequat dolor pretium auctor. Aliquam sed eros tempor dolor vestibulum maximus a porta lectus. Aenean vitae posuere libero. Mauris efficitur sollicitudin lorem in accumsan. Maecenas vehicula ullamcorper nisi. Nunc gravida turpis vitae velit luctus, vehicula cursus sem scelerisque. Suspendisse ultricies urna rutrum, condimentum ex sed, accumsan orci. Vivamus bibendum nisi et elit semper consequat. Maecenas bibendum lobortis nisi et commodo. Vivamus ut turpis cursus, pulvinar quam ut, facilisis leo. Sed ullamcorper venenatis elit ut faucibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 
 ### Skills:
