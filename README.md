@@ -197,63 +197,6 @@ Strong RDMS, statistics and maths knowledge.
 
 
 
-<!-- USAGE EXAMPLES -->
-## Projects
-
-### Machine Learning Algorithm with Python
-
-![ml](https://user-images.githubusercontent.com/110522512/200092486-66a6c0fe-4a39-4803-bd51-2166847ca63a.png)
-
-It's a project made to compare all the Classification models and know which one achieves the highest accuracy.
-
-Algorithms:
-* K Nearest Neighbor(KNN)
-* Decision Tree
-* Support Vector Machine
-* Logistic Regression
-
-Tools:
-* Python
-* Pandas
-* Numpy
-* ScikitLearn
-
-[Project Repository](https://github.com/Hi-io/Machine-Learning-Algorithm-Python)
-
-<br />
-<br />
-
-
-### Titanic Prediction Model
-
-![tt](https://user-images.githubusercontent.com/110522512/200092637-30a99925-8553-4815-a2c5-5c2557428be0.png)
-
-
-This is a model created to join into machine learning competition from Kaggle. We'll use machine learning (Multiple Linear Regression) to create a model that predicts which passengers survived the Titanic shipwreck.
-Tools:
-* Python
-* Pandas
-* Numpy
-* ScikitLearn
-
-[Project Repository](https://github.com/Hi-io/Titanic-Prediction-Model)
-<br />
-<br />
-
-### 3D Modeling / Rendering (BIM Project)
-
-![1651648911752](https://user-images.githubusercontent.com/110522512/200092646-fdd6e0ee-62d2-4126-b2b5-241ea61f78bf.jpg)
-
-
-Residential Project Development in Revit
-
-A Three Level House in Miraflores, Lima, Peru
-
-Revit BIM + AutoCAD + SketchUp + Lumion + Photoshop
-
-[Project link](https://www.linkedin.com/feed/update/urn:li:activity:6927517643943874561/)
-
-
 
 <!-- CONTACT -->
 ## Contact
