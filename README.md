@@ -45,7 +45,7 @@ Strong RDMS, statistics and maths knowledge.
 
 * 🔍 SQL (MySQL, BigQuery)
 * 🐍 Python (Numpy, Pandas, ScikitLearn)
-* 📈 Spreadsheets, Excel
+* 📈 Power BI, Google sheets, Excel
 * ☁️ Google Cloud Platform (Big Query, Data Studio)
 * 🖥️ Autodesk Software (AutoCAD, Revit, 3DsMax)
 * 💎 3D Rendering (SketchUp, Enscape, Lumion)
